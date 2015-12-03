@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * Created with IntelliJ IDEA.
- * User: xuzkxxxxxxxxxxxx
+ * User: xuzkxxxxxxxxxxxxyyyyyu
  * Date: 2015/4/8
  */
 public interface CompanyIndustyService {
