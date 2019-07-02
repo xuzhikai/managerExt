@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 public class AuthCode {
-	
+	//我这边测试一下
 	//产生随即的字体  
     private Font getFont() {  
         Font font = new Font("Times New Roman",Font.PLAIN,24);
