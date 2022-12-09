@@ -9,7 +9,7 @@
 
 	<properties>
         <package.environment>prod</package.environment>
-        <spring.version>3.2.3.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <spring.security.version>3.1.1.RELEASE</spring.security.version>
         <restlet.version>2.1.0</restlet.version>
 		<DEFAULT_ENCODING>UTF-8</DEFAULT_ENCODING>
